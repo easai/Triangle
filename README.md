@@ -14,12 +14,12 @@ The function aims to find the minimum path sum from the top to the bottom of a t
 
 ## Usage
 
-Install pytest.
+To install pytest, run the following command.
 ```bash
 poetry install
 ```
 
-Run the test.
+Execute the following command to run the test.
 ```bash
 poetry run pytest
 ```
